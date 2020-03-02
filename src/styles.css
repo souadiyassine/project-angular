@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+.nav-pills.outline-active .nav-link.active {
+    border-bottom: 2px solid #4f96d3!important;
+    color: #4f96d3!important;
+}
+
+.navbar-brand {
+    color: #4f96d3!important;
+}
+
+a {
+    color: #4f96d3;
+    text-decoration: none;
+}
+
+a:focus, a:hover {
+    color: #4f96d3;
+    text-decoration: underline;
+}
+
+.btn-outline-primary {
+    color: #4f96d3;
+    background-image: none;
+    background-color: transparent;
+    border-color: #4f96d3;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #4f96d3;
+    border-color: #4f96d3;
+}
+
+.home-page .banner {
+    background: #4f96d3
+}
+.btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus, .open>.btn-primary.dropdown-toggle:hover, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle.focus {
+    color: #fff;
+    background-color: #4f96d3;
+    border-color: #4f96d3;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #4f96d3;
+    border-color: #4f96d3;
+}
+
+.btn-primary.disabled:hover, .btn-primary:disabled:hover {
+    background-color: #4f96d3;
+    border-color: #4f96d3;
+}
+
+.page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #4f96d3;
+    border-color: #4f96d3;
+}
